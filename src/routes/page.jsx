@@ -3,7 +3,7 @@ import App from "../App";
 import SwiggyDelhiRestaurents from "../pages/Restaurents/page";
 import AboutUs from "../pages/about-us/page";
 import ErrorPage from "../components/error-page/page";
-import RestaurentDetails from "../pages/restaurent-details/page";
+import RestaurentDetails from "../pages/Restaurents/restaurent-details/page";
 
 
 

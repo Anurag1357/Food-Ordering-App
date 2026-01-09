@@ -19,7 +19,7 @@ const Header = () => {
 
           {navs.map((items) => {
             return (
-              <Link to={items?.link}>
+              <Link key={items?.id} to={items?.link}>
                 <p className="cursor-pointer hover:text-orange-500 transition">
                   {items?.label}
                 </p>
